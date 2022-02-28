@@ -16,7 +16,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
-//1kuhkjhkjhjkhjkhkhkhkashdfljkahsglkjasdasdfasdfasdfasfdasdfasdfasdf
+//야야ㅑ
 public class AlarmReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
